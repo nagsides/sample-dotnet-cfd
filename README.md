@@ -1,6 +1,6 @@
 # Sample .NET App - ASP.NET Core
 
-[![CircleCI Build Status](https://app.circleci.com/pipelines/github/nagsides/dotnet-sample-cfd/main)](https://app.circleci.com/pipelines/github/nagsides/dotnet-sample-cfd/main) [![Software License](https://img.shields.io/badge/license-MIT-blue.svg)](https://app.circleci.com/pipelines/github/nagsides/dotnet-sample-cfd)
+[![CircleCI Build Status](https://circleci.com/pipelines/github/nagsides/dotnet-sample-cfd/main)](https://circleci.com/pipelines/github/nagsides/dotnet-sample-cfd/main) [![Software License](https://img.shields.io/badge/license-MIT-blue.svg)](https://app.circleci.com/pipelines/github/nagsides/dotnet-sample-cfd)
 
 ## Description
 
