@@ -1,12 +1,12 @@
 # Sample .NET App - ASP.NET Core
 
-[![CircleCI Build Status](https://app.circleci.com/pipelines/github/CircleCI-Public/dotnet-sample-cfd)](https://app.circleci.com/pipelines/github/CircleCI-Public/dotnet-sample-cfd) [![Software License](https://img.shields.io/badge/license-MIT-blue.svg)](https://app.circleci.com/pipelines/github/CircleCI-Public/dotnet-sample-cfd)
+[![CircleCI Build Status](https://app.circleci.com/pipelines/github/nagsides/dotnet-sample-cfd)](https://app.circleci.com/pipelines/github/nagsides/dotnet-sample-cfd) [![Software License](https://img.shields.io/badge/license-MIT-blue.svg)](https://app.circleci.com/pipelines/github/nagsides/dotnet-sample-cfd)
 
 ## Description
 
 The sample .NET core app here is designed to demonstrate what a typical .NET core CI workflow may look on CircleCI.
 
-You can see the CI pipelines for this application running [live on CircleCI](https://app.circleci.com/pipelines/github/CircleCI-Public/dotnet-sample-cfd?branch=main).
+You can see the CI pipelines for this application running [live on CircleCI](https://app.circleci.com/pipelines/github/nagsides/dotnet-sample-cfd?branch=main).
 
 In this sample config, we have a single workflow `build-and-test` which will install and cache our required .NET core packages, and then run tests with xunit by running `dotnet test`, a common .NET framework. This config makes use of the windows executor running SQL Server 2019, which is the database that this app uses to store data.
 
